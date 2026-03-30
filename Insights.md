@@ -9,28 +9,32 @@ There is a significant year-on-year reduction, especially in fatal cases, indica
 ## 2.	Peak Accident Time:
 - Accidents are higher in daytime (73.84%) due to traffic increased
 - Peaks observed during high traffic months (oct – nov)
-**Solution:**
+  
+### Solution:
 - Implement rush hour traffic management strategies
 - Deploy smart signals and traffic police during peak hours
 
-##3.	Most affected regions:
+## 3.	Most affected regions:
 - Urban areas (~62%) show higher accident rates
 - Map visualization highlights accident hotspots in specific locations
-**Solution:**
+  
+### Solution:
 - Improve urban traffic infrastructure and signal system
 - Install speed cameras and surveillance in hotspot areas
  
 ## 4.	Major Causes of Accidents:
 - Cars causes the highest casualties (~155K)
 -	Single carriageways are most accident-prone roads (145K)
-**Solution:**
+  
+### Solution:
 - Enforce strict speed limits and driving rules for cars
 -	Upgrade single carriageways to dual
 
 ## 5.	Monthly Trend Pattern:
 -	High peaks between oct – nov
 -	Accident rate decreased in feb and dec
-**Solution:**
+  
+### Solution:
 -	Use predictive planning for high risk months
 -	Increase traffic enforcement during peak periods
 
